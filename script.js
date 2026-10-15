@@ -1,19 +1,10 @@
-/*
-  PERSONALIZE AQUI 💜
-  Troque os textos entre aspas. Você não precisa mexer no resto do código.
-*/
 const PERSONALIZACAO = {
   apelido: "minha princesa", //
   data: "amanhã 💜",       // Ex.: "15 de outubro de 2026"
-  mensagemFinal: `Amanhã a gente finalmente vai se encontrar pessoalmente, e eu tô feliz demais por isso.
+  mensagemFinal: `amanhã finalmente irei te ver pessoalmente, e eu tô bemm feliz por isso.
+achei justo você saber que, além de uma "namo" linda rs, deve ter percebido que você também ganhou alguém que vai usar programação como desculpa pra fazer essas surpresas pra você. então se acostuma: isso aqui é só a versão 1.0 KKKKK brincadeiras à parte, eu gosto de te surpreender e ver que ficou feliz. quero ser alguém com quem você possa contar, conversar e sempre ser você mesma. tô doida pra transformar essas nossas conversas em memórias reais cntg. enfim...
 
-achei justo você saber que, além de uma "namo" linda rs, você também ganhou alguém que vai usar programação como desculpa pra fazer essas surpresas pra você. Então se acostuma: isso aqui é só a versão 1.0 KKKKK.
-
-Brincadeiras à parte, eu gosto de te ver feliz. Gosto de ser alguém com quem você pode rir, conversar e ser você mesma. Tô ansiosa pra transformar nossas conversas em memórias de verdade.
-
-Não precisa ser perfeito. Só quero que seja nosso.
-
-Te vejo amanhã, neném. ♡`
+te vejo amanhã, neném.`
 };
 
 // Atualiza os campos personalizáveis no HTML.
